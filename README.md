@@ -17,4 +17,3 @@ https://janco.tech
 - Inventario, cobranza, ventas, produccion y reportes.
 - Herramientas para negocios que necesitan operar mejor sin depender de hojas de
   calculo y procesos manuales.
-
